@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vis:Visumantrag xmlns:vis="http://www.auswaertiges-amt.de/rk-visa/import/Visumantrag.xsd">
+  <Antragsteller>
+    <Familienname>SINGHAL</Familienname>
+    <Geburtsname>SINGHAL</Geburtsname>
+    <Vornamen>ABHINAV</Vornamen>
+    <Familienstand>02</Familienstand>
+    <Geburtsdatum>1981-10-28</Geburtsdatum>
+    <Geburtsort>BULANDSHAHAR</Geburtsort>
+    <Geburtsland>IND</Geburtsland>
+    <Staatsangehoerigkeit>IND</Staatsangehoerigkeit>
+    <UrspruenglicheStaatsangehoerigkeit>IND</UrspruenglicheStaatsangehoerigkeit>
+    <Geschlecht>M</Geschlecht>
+    <StaendigeAnschrift>
+      <Strasse>255 WARREN STREET</Strasse>
+      <Hausnummer>1101</Hausnummer>
+      <PLZ>07302</PLZ>
+      <Ort>JERSEY CITY</Ort>
+      <Land>USA</Land>
+      <Telefon>5516971994</Telefon>
+      <Email>abhinav1singhal@gmail.com</Email>
+    </StaendigeAnschrift>
+    <Beruf>17</Beruf>
+    <ArbeitgeberBildungseinrichtung>
+      <Strasse>250 GREENWICH STREET</Strasse>
+      <PLZ>10007</PLZ>
+      <Ort>NEW YORK</Ort>
+      <Land>USA</Land>
+      <Name>MOODYS SHARED SERVICES</Name>
+      <SonstigeAdressangaben>7 WTC</SonstigeAdressangaben>
+    </ArbeitgeberBildungseinrichtung>
+  </Antragsteller>
+  <Pass>
+    <Passnummer>J6427488</Passnummer>
+    <Passart>01</Passart>
+    <AusgestelltAm>2012-04-11</AusgestelltAm>
+    <GueltigBis>2022-04-10</GueltigBis>
+    <AusstellenderStaat>IND</AusstellenderStaat>
+    <AusgestelltVon>INDIA</AusgestelltVon>
+    <AusgestelltIn>NEW YORK</AusgestelltIn>
+  </Pass>
+  <Visum>
+    <AnzahlDerEinreisen>MULT</AnzahlDerEinreisen>
+    <Dauer>06</Dauer>
+    <GueltigVon>2015-09-26</GueltigVon>
+    <GueltigBis>2015-09-30</GueltigBis>
+  </Visum>
+  <Reisedaten>
+    <Aufenthaltszweck>10</Aufenthaltszweck>
+    <Aufenthaltszweck>07</Aufenthaltszweck>
+    <Hauptreiseziel>DEU</Hauptreiseziel>
+    <Hauptreiseziel>CZE</Hauptreiseziel>
+    <GrenzeErsteinreise>DEU</GrenzeErsteinreise>
+    <AntragstellerReisekosten>true</AntragstellerReisekosten>
+    <LebensunterhaltBar>true</LebensunterhaltBar>
+    <LebensunterhaltKreditkarten>true</LebensunterhaltKreditkarten>
+    <LebensunterhaltSonstigesText>KÜ ok</LebensunterhaltSonstigesText>
+  </Reisedaten>
+  <Sonstiges>
+    <Rueckkehrberechtigung>true</Rueckkehrberechtigung>
+    <ArtRueckkehrberechtigung>H1B</ArtRueckkehrberechtigung>
+    <NummerRueckkehrberechtigung>J9335058</NummerRueckkehrberechtigung>
+    <GueltigBisRueckkehrberechtigung>2018-04-01</GueltigBisRueckkehrberechtigung>
+    <ArtEinreiseerlaubnis>RESIDENT_ALIEN_CARD</ArtEinreiseerlaubnis>
+    <Endzielstaat>USA</Endzielstaat>
+    <ErteiltSchengenVisum>false</ErteiltSchengenVisum>
+  </Sonstiges>
+  <Biometrie>
+    <FAFrueherErfasst>false</FAFrueherErfasst>
+  </Biometrie>
+  <ReferenzpersonEinlader>
+    <ArtReferenz>4</ArtReferenz>
+    <Referenzperson>
+      <Anschrift>
+        <Strasse>FRIEDRICHSTR. 158-164 MITTE</Strasse>
+        <PLZ>10117</PLZ>
+        <Ort>BERLIN</Ort>
+        <Land>DEU</Land>
+      </Anschrift>
+      <Telefon>493020273420</Telefon>
+    </Referenzperson>
+    <OrganisationFirmaHotelName>THE WESTING GRAND BERLIN</OrganisationFirmaHotelName>
+  </ReferenzpersonEinlader>
+  <VEGeber/>
+  <WeitereFelder>PFdlaXRlcmVGZWxkZXJEZWtvZGllcnQgeG1sbnM6dmlzPSJodHRwOi8vd3d3LmF1c3dhZXJ0aWdlcy1hbXQuZGUvcmstdmlzYS9pbXBvcnQvVmlzdW1hbnRyYWcueHNkIj48UmVmZXJlbnpwZXJzb25FaW5sYWRlclZXRFp1c2F0emZlbGRlcj48T3JnYW5pc2F0aW9uT3J0PkJFUkxJTjwvT3JnYW5pc2F0aW9uT3J0PjxPcmdhbmlzYXRpb25BdWZnYWJlV2lya2JlcmVpY2g+MDg8L09yZ2FuaXNhdGlvbkF1ZmdhYmVXaXJrYmVyZWljaD48L1JlZmVyZW56cGVyc29uRWlubGFkZXJWV0RadXNhdHpmZWxkZXI+PC9XZWl0ZXJlRmVsZGVyRGVrb2RpZXJ0Pg==</WeitereFelder>
+  <VersionAP1>1.7</VersionAP1>
+  <ExportXML>2015-08-18T11:38:35.556-04:00</ExportXML>
+</vis:Visumantrag>

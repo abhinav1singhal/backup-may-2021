@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vis:Visumantrag xmlns:vis="http://www.auswaertiges-amt.de/rk-visa/import/Visumantrag.xsd">
+  <Antragsteller>
+    <Familienname>SINGHAL</Familienname>
+    <Geburtsname>SINGHAL</Geburtsname>
+    <Vornamen>ABHINAV</Vornamen>
+    <Familienstand>02</Familienstand>
+    <Geburtsdatum>1981-10-28</Geburtsdatum>
+    <Geburtsort>BULANDSHAHAR</Geburtsort>
+    <Geburtsland>IND</Geburtsland>
+    <Staatsangehoerigkeit>IND</Staatsangehoerigkeit>
+    <UrspruenglicheStaatsangehoerigkeit>IND</UrspruenglicheStaatsangehoerigkeit>
+    <Geschlecht>M</Geschlecht>
+  </Antragsteller>
+  <Pass/>
+  <Visum/>
+  <Reisedaten/>
+  <Sonstiges/>
+  <Biometrie/>
+  <ReferenzpersonEinlader/>
+  <VEGeber/>
+  <VersionAP1>1.6</VersionAP1>
+  <ExportXML>2015-07-30T13:20:40.624-04:00</ExportXML>
+</vis:Visumantrag>

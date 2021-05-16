@@ -1,0 +1,6 @@
+Application ID AA001C6WI1 
+
+
+Mr. singhal is responsible for developing complex software to meet moodys financial metric reporting needs. this will require collaboration with business analysts, cognos developers and business intelligence team to address software need.
+
+Mr. singhal will Utilize his knowledge of adobe flex and java web development program to integrate the adobe flex graphical interface with cognos performance management software reports
